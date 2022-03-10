@@ -1,0 +1,5 @@
+  <corpo>
+     <div><include href="example1.xml" xmlns="http://www.w3.org/2001/XInclude"
+xpointer="range(xpath(id('par1')//emph),xpath(id('par2')//emph))"/>
+     </div>
+ </corpo>   
